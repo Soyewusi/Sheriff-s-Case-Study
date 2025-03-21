@@ -1,0 +1,6 @@
+Short description of commit
+Fix login validation issue 
+Longer explanation of the motivation for the change
+The login form previously allowed users to submit without entering a password. Added proper validation to prevent empty submissions. Also improved error messages for better user feedback.
+Fixes-Bug: Enter bug-#1023 or delete line
+Implements-Requirement: Enter requirement-#567 or delete line
